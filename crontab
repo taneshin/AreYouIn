@@ -1,1 +1,1 @@
-0 9 * * 1-5 python /main.py >> /logfile
+0 9 * * 1-5 python /main.py > /dev/stdout
